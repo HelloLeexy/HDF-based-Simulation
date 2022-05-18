@@ -4,3 +4,6 @@
 2.使用1步中的模型生成G+和G-，使用generate_G+andG-.py,更改里面的.h5的文件接口即可
 3.如果需要裁剪网络可更改new_training.py 的deteoverange()函数
 4.仿真训练结束后，权重矩阵会保存在Matriix1.h5中，可运行pathway.py获得路径预测结果
+5.HDFExplorer.zip是打开.5h文件的工具
+case5.txt储存ACCURACY
+case5.1.txt储存每次更新的节点数目
