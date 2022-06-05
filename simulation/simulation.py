@@ -21,17 +21,17 @@ accuracylist=[]
 val_accuracylist=[]
 bias_info={}
 # G Matrix updating information
-LTPGmax=303.394/100
+LTPGmax=304.367/100
 LTPGmin=0.972985/100
 LTPap=21.07/100
 # 参数
 LTPbp=5.048
 
-LTDGmax=185.845/100
+LTDGmax=304.367/100
 LTDGmin=0.957552/100
-LTDad=88.05/100
+LTDad=118.522/100
 # 参数
-LTDbd=2.0979
+LTDbd=1.8224
 
 # 根据神经形态器件的特征对权重进行更新
 def GposI(gpos):
